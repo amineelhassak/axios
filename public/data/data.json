@@ -1,50 +1,9 @@
 {
   "users": [
     {
-      "userId": 1,
-      "name": "yassine",
-      "id": "6d71"
-    },
-    {
-      "userId": 2,
-      "name": "reda",
-      "id": "0a4a"
-    },
-    {
-      "userId": 3,
-      "name": "amine",
-      "id": "6d1a"
-    },
-    {
-      "userId": 4,
-      "name": "ahmed",
-      "id": "e152"
-    },
-    {
-      "id": "32fb",
-      "prof_id": 1,
-      "title": "Math Tutoring",
-      "description": "Offering advanced math tutoring for high school students.",
-      "type": "Tutoring",
-      "price": "50",
-      "crteated_at": "2024-07-01T10:00:00Z",
-      "updated_at": "2024-07-01T10:00:00Z"
-    },
-    {
-      "id": "51d9"
-    },
-    {
-      "id": "9c5a"
-    },
-    {
-      "id": "d18a",
-      "name": "yassine",
-      "userId": 1
-    },
-    {
-      "id": "fbf6",
-      "name": "yassine",
-      "userId": 1
+      "id": "8cdb",
+      "name": "GTGGTTG",
+      "userId": 1772977842274
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
